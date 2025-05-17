@@ -13,7 +13,6 @@
 * **Expo Linear Gradient**, **Expo Blur** — современные визуальные эффекты (градиенты, блюр)
 * **react-native-toast-message** — уведомления
 * **expo-clipboard** — работа с буфером обмена
-* **Jest / React Native Testing Library** — тестирование (если нужно покрытие)
 
 ### Backend
 
